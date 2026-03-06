@@ -1,4 +1,4 @@
-# This is a folder to showcase the HTML standalone. 
+# This is a folder to showcase the HTML standalone.
 In this document, I will write notes on what I have learnt and come across as I learn HTML. Welcome to the journey.
 
 During my bookstore page build, I learnt that you can represent the HTML reserved characters such us < or >. YOU can use the name reference, decimal numeric reference 
@@ -9,3 +9,4 @@ Of importance is that you have understood what you have done.
 
 As I was building the HTML Audio and Video player, learnt about the audio and video elements and their attributes such as loop,controls,src, etc. The width stretches the video to a desired width. The source element, which is put inside the above two, is a void and is quite helpful when you are selecting multiple formats, as some of the browsers do not support some formats.
 
+Building the svg icon was quite something. I didn't know that svg icons could be built and I am grateful that as developers we don't have to be doing this anymore. Hat's off to those who made sure this generation of developers do not code the SVG's directly. Thank you! :) 
