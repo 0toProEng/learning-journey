@@ -19,3 +19,5 @@ appearances when used on HTML doesn't mean we use them interchangeably. An examp
 Today I learnt about the block quotation and inline quotation as a way of quoting from books, websites, journals, etc. The cite attribute used in the "blockquote" and "quote" points to the resource being quoted. There is a "cite" element as well that does highlight a quoted text visibly on the webpage. In the other elements( by other, I mean blockquote and quote(q)), there is no evidence when it comes to presentation that the block or statement is quoted. In the cite element, the text is italicized
 
 Wrapping up the semantics section with a Mr Whiskers blog project was fun and I enjoyed going back and being reminded of what I had learnt as I did the project
+
+Built an  event hub project, and this sealed a lot about structuring the page even before you get to build the page. I need to know where everything is gonna be before I embark on a journey to fill in the details.
