@@ -21,3 +21,5 @@ Today I learnt about the block quotation and inline quotation as a way of quotin
 Wrapping up the semantics section with a Mr Whiskers blog project was fun and I enjoyed going back and being reminded of what I had learnt as I did the project
 
 Built an  event hub project, and this sealed a lot about structuring the page even before you get to build the page. I need to know where everything is gonna be before I embark on a journey to fill in the details.
+
+I got to make freeCodeCamp tunes and it was fun
